@@ -1,0 +1,1 @@
+<nav class="navbar dashboard-nav"><a class="logo" href="dashboard.php">Arti Intern</a><div class="nav-links"><a href="dashboard.php">Dashboard</a><a href="profile.php">Profile</a><a href="internships.php">Internships</a><a href="applications.php">Applications</a><a href="../logout.php">Logout</a></div></nav>
