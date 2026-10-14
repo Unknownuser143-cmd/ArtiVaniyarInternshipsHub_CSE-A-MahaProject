@@ -1,0 +1,1 @@
+<nav class="navbar dashboard-nav"><a class="logo" href="dashboard.php">Arti Vaniyar Internships Hub</a><div class="nav-links"><a href="dashboard.php">Dashboard</a><a href="add_internship.php">Post role</a><a href="internships.php">My roles</a><a href="applicants.php">Applicants</a><a href="../logout.php">Logout</a></div></nav>
